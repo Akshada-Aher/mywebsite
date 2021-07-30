@@ -1,0 +1,50 @@
+.img1{
+
+    clip-path: circle();
+
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  /* Add a hover effect if you want */
+  .fa:hover {
+    opacity: 0.7;
+  }
+  
+  /* Set a specific color for each brand */
+  
+  /* Facebook */
+  .fa-facebook {
+    background: #9c1b1b;
+    color: white;
+    clip-path: circle();
+  }
+  
+  /* Twitter */
+  .fa-skype{
+    background: #55ACEE;
+    color: white;
+    clip-path: circle();
+  }
+
+  .fa-instagram{
+    background: #3B5998;
+    color: rgb(226, 231, 228);
+    clip-path: circle();
+  }
+  .fa-linkedin{
+    background: #0bdfee;
+    color: white;
+    clip-path: circle();
+  }
+  .fa-github {
+    background: #3B5998;
+    color: white;
+    clip-path: circle();
+  }
